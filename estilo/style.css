@@ -185,7 +185,8 @@ aside > ul {
     columns: 2;
 }
 
-    footer {
+
+footer {
         
         background-color: var(--cor5);
         color: white;
